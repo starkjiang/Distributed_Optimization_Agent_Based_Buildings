@@ -1,1 +1,2 @@
 # Distributed_Optimization_Agent_Based_Buildings
+# A synchronous time gossip-based subgradient method is implemented in multi-agent buildings. It includes the main program, optimization, and a simulated building operation. For each local room (zone), a local PI controller is used to control the reheat coil, which calls a simulink block in the program. ARX model is used to model the zone thermal dynamics for different zones with different coefficients
